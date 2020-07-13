@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{BQXt:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),c=n.n(a),o=n("8k0H"),l=n("vrFN"),r=n("5pF8");e.default=function(){return c.a.createElement(o.a,null,c.a.createElement(l.a,{lang:"es",description:"Contacto",title:"Contacto"}),c.a.createElement(r.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-apartarcita-js-21b90eb8ea1e5d6028aa.js.map
